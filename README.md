@@ -1,5 +1,21 @@
-### Hi there 👋
+# Hello
+I always had a problem with wirting things like that. What to say? How to say it? This is one of those puzzles that I have problems solving. To be honest I'm frustrated about it. When my brain sees some kind of a puzzle it thinks this is a canndy and wants to uwnrap it. This is how I got into coding. Creating algorithms, solving problems this is what makes this programming fun.
 
+I strongly believe that good code tells alot about person who wrote it... their way of thinking. Good code is like hand-made machinery. It combines elegance, complexity with thouhgt process of its creator. The most important thing about code is the fact that is should be human centric. We are able to create wonderfull things nowadays, but we shouldn't forget that we are creating tools. Design should always reflect needs of the user. There is nothing worse than program that decides what is best for the user and nobody knows how those choices are made. *khem* yt *khem*
+
+Maybe my approach is a little bit unrealistic... maybe, but I stronly believe that we can use this [magical power](https://en.wikipedia.org/wiki/Clarke%27s_three_laws) to make something good. That is why I love to talk about technology and programming and share my knowledge. 
+
+In 2019 I've became digital nomad. I'm using this opportunity to find my place in this multiverse and explore my own creativity.
+
+## Projects
+ - **work**           Senior Game Developer @ Astek Polska
+ - **gameDev**        currently working on my game about The Great Siege of Malata
+ - **side project**   migrate to Linux from Windows
+ - **side project**   experiment with scripting lannguages 
+ 
+ <br>
+ <br>
+*you can't stop us all... after all, we're all alike.*
 <!--
 **Huginn18/huginn18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

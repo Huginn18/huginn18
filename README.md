@@ -25,8 +25,8 @@ In 2019 I've became digital nomad. I'm using this opportunity to find my place i
 
  <br>
  <br>
-*you can't stop us all... after all, we're all alike.*
-
+> you can't stop us all... after all, we're all alike.*
+> ~The Mentor
 
 <!--
 **Huginn18/huginn18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

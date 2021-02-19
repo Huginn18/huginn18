@@ -7,17 +7,20 @@ Maybe my approach is a little bit unrealistic... Maybe, but I strongly believe t
 
 In 2019 I've became digital nomad. I'm using this opportunity to find my place in this multiverse and explore my own creativity.
 
-## Life Status
-| Area | details|
-| - | - |
-| work | `Senior Game Developer` @ `Astek Polska` |
-| indie gameDev | working on my game about `The Great Siege of Malta` |
+# current status
 
- - `work`									Senior Game Developer @ Astek Polska
- - `gameDev`								currently working on my game about The Great Siege of Malta
- - `Side Projects`
-	- `migrate to Linux from Windows`		migrate to Linux from Windows
-	- `mimir`								experiment with scripting languages
+| id | name | description |
+| :-: | :-: | :-: |
+| 1 | location | nomading in somewhere in Poland |
+| 2 | work | Senior Game Developer @Asterk Polska |
+| 3 | TBA | TBA |
+| 4 | indie gamedev | working on game about _The Great Siege of Malta_ |
+
+
+## [exploration projects](exploration.md)
+| id | name | status | description | more info |
+| 1  | migrate to Linux | ToDo | after many years with Windows and OsX it's time for Linux | TBU |
+| 2  | mimir | Doing | knowledge hoarding CLI app | [mimir.md](exploration/mimir.md) |
 
  <br>
  <br>

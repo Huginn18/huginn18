@@ -19,6 +19,7 @@ In 2019 I've became digital nomad. I'm using this opportunity to find my place i
 
 ## [exploration projects](exploration.md)
 | id | name | status | description | more info |
+| :-: | :-: | :-: | :-: | :-: |
 | 1  | migrate to Linux | ToDo | after many years with Windows and OsX it's time for Linux | TBU |
 | 2  | mimir | Doing | knowledge hoarding CLI app | [mimir.md](exploration/mimir.md) |
 

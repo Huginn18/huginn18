@@ -29,3 +29,11 @@ Creating and sending CV was always a chore for me, so why not use yaml or json a
 - - -
 
 I have big problem finishing projects, every time I take break from a project and come back after some time I need to start everything from scratch. This weird quirk is my OCD/perfectionism taking control. Anyway this time I will take less aggressive approach, I will salvage `git` and `file manager` code and focus on creating proper plan/documentation.
+
+
+## 20/02/2021
+Another insomnia episode! I'm suuuuuuuuure this won' have any effect on how many typos and stupid mistakes I will make... FML
+
+Anywayz I created some documentation for this project. Each module got short description and I think I have good idea where to start. Config and project module sound like a good idea for first try. I Should probably work on that git module, last time I was focused on making this god damn thing working and skipped over some of the commands that might be useful later. I admit I should probably add this idea to the backlog, maybe create gist that I will update later.
+
+My first goal is to create project module and config for it. It is pretty obvious that commands like new, add, delete, clone are a must. I need to think about where to put `manifest` file for this module. It will __probably__ end up in `~/.config/.mimir.d/`. For now this is the most logical choice. Creating multiple, local `manifest` files for data creating modules is something that I need to think about it. It seems like a good solution, after all all projects will be using `git` for versioning and backups. Making one, big `manifest` might cause more problems then it is worth. For sure this approach gives me few extra points in `modularity` approach, you can clone/dowload already existing repo without much of a headache.

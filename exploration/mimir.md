@@ -25,3 +25,7 @@ For quite some time recently I got annoyed with lack of proper tool that I neede
 
 #### CV Generator
 Creating and sending CV was always a chore for me, so why not use yaml or json and generate nice pdf from it? I need to figure it out later.
+
+- - -
+
+I have big problem finishing projects, every time I take break from a project and come back after some time I need to start everything from scratch. This weird quirk is my OCD/perfectionism taking control. Anyway this time I will take less aggressive approach, I will salvage `git` and `file manager` code and focus on creating proper plan/documentation.

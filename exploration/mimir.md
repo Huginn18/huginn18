@@ -47,3 +47,6 @@ How `new` command should work? After user provides `project name` and `path`app 
 2. if it does ask user if they want to create project there. If `.git` directory exists skip git init, if it doesn't exist ask user if they want to use git in the project.
 
 That seems simple enough, let's code.
+
+## Update
+Ok, I forgot about one important thig. Checking `project name` if project already exists user should be asked for a new name.

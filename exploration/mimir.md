@@ -37,3 +37,13 @@ Another insomnia episode! I'm suuuuuuuuure this won' have any effect on how many
 Anywayz I created some documentation for this project. Each module got short description and I think I have good idea where to start. Config and project module sound like a good idea for first try. I Should probably work on that git module, last time I was focused on making this god damn thing working and skipped over some of the commands that might be useful later. I admit I should probably add this idea to the backlog, maybe create gist that I will update later.
 
 My first goal is to create project module and config for it. It is pretty obvious that commands like new, add, delete, clone are a must. I need to think about where to put `manifest` file for this module. It will __probably__ end up in `~/.config/.mimir.d/`. For now this is the most logical choice. Creating multiple, local `manifest` files for data creating modules is something that I need to think about it. It seems like a good solution, after all all projects will be using `git` for versioning and backups. Making one, big `manifest` might cause more problems then it is worth. For sure this approach gives me few extra points in `modularity` approach, you can clone/dowload already existing repo without much of a headache.
+
+# 25/02/2021
+I have been occupied with normal life stuff for last couple of days but I'm back! I'm currently working on `pm` module. I thought I had this figured out but well... here I am.
+
+How `new` command should work? After user provides `project name` and `path`app should check if directory exists.
+
+1. If it doesn't create project directory. After that user should decide if they want to init git in the directory.
+2. if it does ask user if they want to create project there. If `.git` directory exists skip git init, if it doesn't exist ask user if they want to use git in the project.
+
+That seems simple enough, let's code.

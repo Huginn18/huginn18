@@ -50,3 +50,14 @@ That seems simple enough, let's code.
 
 ## Update
 Ok, I forgot about one important thig. Checking `project name` if project already exists user should be asked for a new name.
+
+# 26/02/2021
+New command is more or less done... Wait... BRB
+
+Ok, now that I'm done I need to figure out what to do next. I think the best thing to do right now would be to implement `list`, `add` and `delete` in that order. `list` will be a nice easy task, perfect after fuckery that occurred during implementation of `new` action. All of the remaining actions are pretty straight forward. I should be able to implement those in a day or two and start working on `qn` module.
+
+After that I need to take care of autocomplete. Not sure if I can do path autocomplete, I need to do more research.
+
+I'm still not sure how to make other modules compatible with `pm` module. Probably I will need to implement two kinds of commands, `<module> <action>` and `<module>-p <project name> <action>`. This looks like a reasonable and elegant solution which will be easy to implement and use. I still have some time to think about it.
+
+I was also thinking about using gh projects for kanban module. After some research and brainstorming I have decided that as much as possible should be done as plain text, also `gh cli` doesn't support projects and I'm to lazy to experiment with `gh api`.

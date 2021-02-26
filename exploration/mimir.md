@@ -61,3 +61,6 @@ After that I need to take care of autocomplete. Not sure if I can do path autoco
 I'm still not sure how to make other modules compatible with `pm` module. Probably I will need to implement two kinds of commands, `<module> <action>` and `<module>-p <project name> <action>`. This looks like a reasonable and elegant solution which will be easy to implement and use. I still have some time to think about it.
 
 I was also thinking about using gh projects for kanban module. After some research and brainstorming I have decided that as much as possible should be done as plain text, also `gh cli` doesn't support projects and I'm to lazy to experiment with `gh api`.
+
+### Update
+`pm list` is implemented and I got an idea. It might be nice to see what modules are used in projects. I need to check how to print table in cmd but besides that this should be easy enough.

@@ -64,3 +64,6 @@ I was also thinking about using gh projects for kanban module. After some resear
 
 ### Update
 `pm list` is implemented and I got an idea. It might be nice to see what modules are used in projects. I need to check how to print table in cmd but besides that this should be easy enough.
+
+### Update
+Currently `pm` module creates `gitHub` repo automatically, I should ask user if they have `gh cli` on their computer and want to use it to put projects on github. That said I need to (at some point) ask user during git init if the repo should be also created on the github. This also means I will need to implement things like `pm add_origin <project name> <url>`, but this is problem for another day.

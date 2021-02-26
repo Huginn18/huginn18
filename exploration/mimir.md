@@ -38,7 +38,7 @@ Anywayz I created some documentation for this project. Each module got short des
 
 My first goal is to create project module and config for it. It is pretty obvious that commands like new, add, delete, clone are a must. I need to think about where to put `manifest` file for this module. It will __probably__ end up in `~/.config/.mimir.d/`. For now this is the most logical choice. Creating multiple, local `manifest` files for data creating modules is something that I need to think about it. It seems like a good solution, after all all projects will be using `git` for versioning and backups. Making one, big `manifest` might cause more problems then it is worth. For sure this approach gives me few extra points in `modularity` approach, you can clone/dowload already existing repo without much of a headache.
 
-# 25/02/2021
+## 25/02/2021
 I have been occupied with normal life stuff for last couple of days but I'm back! I'm currently working on `pm` module. I thought I had this figured out but well... here I am.
 
 How `new` command should work? After user provides `project name` and `path`app should check if directory exists.
@@ -48,10 +48,10 @@ How `new` command should work? After user provides `project name` and `path`app 
 
 That seems simple enough, let's code.
 
-## Update
+### Update
 Ok, I forgot about one important thig. Checking `project name` if project already exists user should be asked for a new name.
 
-# 26/02/2021
+## 26/02/2021
 New command is more or less done... Wait... BRB
 
 Ok, now that I'm done I need to figure out what to do next. I think the best thing to do right now would be to implement `list`, `add` and `delete` in that order. `list` will be a nice easy task, perfect after fuckery that occurred during implementation of `new` action. All of the remaining actions are pretty straight forward. I should be able to implement those in a day or two and start working on `qn` module.

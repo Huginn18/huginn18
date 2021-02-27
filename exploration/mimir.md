@@ -67,3 +67,7 @@ Currently `pm` module creates `gitHub` repo automatically, I should ask user if 
 
 Ok, for some weird reason autocomplete stopped working on my macbook... partialy, it works perfectly fine in terminal but in python subshell it is gone. So for now I will ignore autocomplete feature.
 
+# 27/02/2021
+I started working on `qn` module and realized that I will need another module, namely `config`. `config` will allow user to reinitialize modules and change their settings. I mean this is last thing I'm gonna do since this app is/will be used only by me, but I should do it at some point to make it complete.
+
+

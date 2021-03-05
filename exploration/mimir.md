@@ -70,4 +70,12 @@ Ok, for some weird reason autocomplete stopped working on my macbook... partialy
 # 27/02/2021
 I started working on `qn` module and realized that I will need another module, namely `config`. `config` will allow user to reinitialize modules and change their settings. I mean this is last thing I'm gonna do since this app is/will be used only by me, but I should do it at some point to make it complete.
 
+# 03/03/2021
+With `qn` module done I need to plan work for `qnp` (quicknote with pm support). `qnp` will be nearly the same as `qn` module, only change that I will need to incorporate will be passing reference to `pm` module for easy access to projects list.
 
+This one shouldn't take more than a day of after-hours work. After that I will start working on `log` module and I need to think about `log` and `docs` modules. Generating `ToC` and folder structure for the doc file.
+
+# 05/03/2021
+Implementing `qnp` was annoying to say the least, basically copying `qn` methods and adjusting indexes and replacing `self` everywhere. For `log` module I need to find a way to implement `logp` without this whole mess. This will be fun.
+
+I also figured that it will be useful to add `gitIgnore` functionality to the `pm` module, but this is a story for another day.

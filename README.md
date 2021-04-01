@@ -12,8 +12,8 @@ In 2019 I've became digital nomad. I'm using this opportunity to find my place i
 | id | name | description |
 | :-: | :-: | :-: |
 | 1 | location | nomading in somewhere in Poland |
-| 2 | work | Senior Game Developer @Asterk Polska |
-| 3 | TBA | TBA |
+| 2 | work | TBU |
+| 3 | work | TBA |
 | 4 | indie gamedev | working on game about _The Great Siege of Malta_ |
 
  <br>
